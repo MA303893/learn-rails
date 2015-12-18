@@ -46,4 +46,5 @@ group :development do
 end
 
 gem 'figaro'
+gem 'better_errors'
 
