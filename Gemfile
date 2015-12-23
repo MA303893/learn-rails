@@ -47,4 +47,4 @@ end
 
 gem 'figaro'
 gem 'better_errors'
-
+gem 'rails_layout'
