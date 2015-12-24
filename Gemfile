@@ -48,3 +48,6 @@ end
 gem 'figaro'
 gem 'better_errors'
 gem 'rails_layout'
+gem 'compass-rails', '~> 2.0.4'
+gem 'zurb-foundation'
+gem 'simple_form'
